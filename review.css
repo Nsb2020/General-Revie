@@ -1,0 +1,72 @@
+main {
+  min-height: calc(100vh - 3rem);
+  display: grid;
+  place-items: center;
+}
+.container {
+	width:55%;
+	line-height:30px; 
+	background-color: pink;
+	text-align:center;
+}
+.container h2 {
+  background: var(--clr-black);
+  color: var(--clr-white);
+  padding: 1rem;
+  border-radius: var(--radius);
+  margin-bottom: 2.5rem;
+}
+.button-container{
+	padding-bottom:15px;
+}
+.prev-btn{
+	margin-right:30px;
+	font-size:25px;
+	color:blue;
+
+}
+.next-btn{
+		font-size:25px;
+		color:blue;
+}
+.random-btn{
+	font-size:20px;
+}
+.random-btn:hover{
+	color:blue;
+}
+p{
+	font-family:tahoma;
+}
+h1{
+	font-family:tahoma;
+	font-size: 20px;
+}
+h3{
+font-size: 30px;
+}
+#job{
+	font-size:30px;	
+	color:blue;
+}
+.fuck{
+	height:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
